@@ -34,7 +34,7 @@ performed as part of her career.
 ## Value Proposition
 
  * Certificates on paper may be faked or get lost. Keeping certificates on hyperledger
-provides for a single point of truth where credentials are kept. Privacy is 
-assured as no one can read Jane's records without her consent, i.e. without an one-time
-key Jane will generate for the requestor.
+provides for a single point of truth where credentials are kept. 
+* Privacy is assured as no one can read Angels's records without her consent, i.e. without an one-time
+key Angel will generate for the requestor.
 

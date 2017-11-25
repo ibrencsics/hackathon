@@ -38,3 +38,10 @@ provides for a single point of truth where credentials are kept.
 * Privacy is assured as no one can read Angels's records without her consent, i.e. without an one-time
 key Angel will generate for the requestor.
 
+## Future work
+* Refine use cases - things have been kept as simple as possible for the hackathon
+* Query search implementation (queries did not work as expected and need more work)
+* Nicer demo, e.g. using QR codes for certificate UIDs
+* Refine Use Cases, consider legal (e.g. GDPR) and regulatrory aspects
+* Review ongoing activities on the subjects, e.g, standardization activities
+

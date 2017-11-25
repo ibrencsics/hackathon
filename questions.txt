@@ -23,14 +23,14 @@ Are there other solutions already?
     --> no well-known solutions
     --> just small approaches
 
-Expansion
-(- validation of degree)
-- faster query search implementation
-- scan of certificates/degrees
-
-GDPR (General Data Protection Regulation)
-- thinking about regulations is important
+Did you consider privacy
 - data can't be inspected without the owner's permission
+
+Future work
+- Query search implementation (queries did not work as expected and need more work)
+- Nicer demo, e.g. using QR codes for certificate UIDs
+- Refine Use Cases, consider legal (e.g. GDPR) and regulatrory aspects
+- Review ongoing activities on the subjects, e.g, standardization activities
 
 
 

@@ -6,7 +6,7 @@
 
 ### Actors 
 
-Angel from India has finished her studies at the Univerty of Delhi and is now applying for her first job in the UK. Thanks to 
+Angel from India has finished her studies at the University of Delhi and is now applying for her first job in the UK. Thanks to 
 the Public Education Blockchain her certificate can be quickly checked by employees on demand. In the past, this 
 process took several weeks to complete as a formal request had to be sent to be sent by mail to the authorities in India.
 
